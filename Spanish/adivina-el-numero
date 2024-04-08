@@ -1,0 +1,15 @@
+import random
+number = random.randint(1, 100)
+guess = 0
+print(number)
+attempts = 0
+while number != guess:
+    attempts += 1
+    guess = int(input("Adivina el número que he elegido del 1 al 100: "))
+    if guess > number:
+        print("El número que he elegido es menor que", guess)
+    if guess < number:
+        print("El número que he elegido es mayor que", guess)
+       
+if number == guess:
+    print("¡Correcto! Has tardado", attempts, "intentos en adivinar el número.")
