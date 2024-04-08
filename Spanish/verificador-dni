@@ -1,0 +1,7 @@
+dni_incompleto = int(input("¿Cuáles son los números que componen tu DNI?: "))
+residuo = dni_incompleto % 23
+
+letras = ["T", "R", "W", "A", "G", "M", "Y", "F", "P", "D", "X", "B", "N", "J", "Z", "S", "Q", "V", "H", 'L', "C", "K", "E"]
+
+dni_completo = letras[residuo]
+print(str(dni_incompleto) + str(dni_completo))
