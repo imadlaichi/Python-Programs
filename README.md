@@ -4,7 +4,7 @@ This repository contains a collection of small programs and projects developed i
 ## Project List:
 - Akinator
 - Creacte a Multiplication Table
-- Dni Checker
+- DNI Checker
 - Even/Odd Number
 - Factorial Number
 - Fibonacci Section
@@ -26,13 +26,17 @@ This README file is available in two languages: English and Spanish.
 Este repositorio contiene una colección de pequeños programas y proyectos desarrollados en Python. Estos programas abarcan una variedad de temas y funcionalidades, desde scripts simples hasta aplicaciones más complejas.
 
 ## Lista de proyectos:
--
--
--
--
--
--
--
+- Adivina el Numero
+- Akinator
+- Calculadora de Procesos Industriales
+- Crear Tabla de Multiplicacion
+- Librerias Python
+- Numero Par/Inpar
+- Numero Factorial
+- Numero Primo
+- Piedra/Papel/Tijeras Juego
+- Seccion de Fibonacci
+- Verificador de DNI
 
 ## Contribución:
 ¡Siéntete libre de contribuir con tus propios proyectos o mejorar los existentes! Cualquier tipo de contribución es bienvenida, desde agregar nuevos programas hasta corregir errores o mejorar la documentación.
