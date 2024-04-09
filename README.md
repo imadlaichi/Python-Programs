@@ -9,7 +9,8 @@ This repository contains a collection of small programs and projects developed i
 - Factorial Number
 - Fibonacci Section
 - Guess the Number
-- Industrial Process Number
+- Industrial Process Calculator v1
+- Indutrial Process Calculator v2 GUI
 - Prime Number
 - Python Libraries
 - Rock/Paper/Scissors Game
@@ -29,7 +30,7 @@ Este repositorio contiene una colección de pequeños programas y proyectos desa
 - Adivina el Numero
 - Akinator
 - Calculadora de Procesos Industriales v1
-- Calculador de Procesos Industriales v2 Gui
+- Calculador de Procesos Industriales v2 GUI
 - Crear Tabla de Multiplicacion
 - Librerias Python
 - Numero Par/Inpar
