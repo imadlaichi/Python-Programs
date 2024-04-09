@@ -2,13 +2,17 @@
 ## Description:
 This repository contains a collection of small programs and projects developed in Python. These programs cover a variety of topics and functionalities, from simple scripts to more complex applications.
 ## Project List:
--
--
--
--
--
--
--
+- Akinator
+- Creacte a Multiplication Table
+- Dni Checker
+- Even/Odd Number
+- Factorial Number
+- Fibonacci Section
+- Guess the Number
+- Industrial Process Number
+- Prime Number
+- Python Libraries
+- Rock/Paper/Scissors Game
 
 ## Contribution:
 Feel free to contribute your own projects or improve existing ones! Any kind of contribution is welcome, whether it's adding new programs, fixing bugs, or enhancing documentation.
