@@ -28,7 +28,8 @@ Este repositorio contiene una colección de pequeños programas y proyectos desa
 ## Lista de proyectos:
 - Adivina el Numero
 - Akinator
-- Calculadora de Procesos Industriales
+- Calculadora de Procesos Industriales v1
+- Calculador de Procesos Industriales v2 Gui
 - Crear Tabla de Multiplicacion
 - Librerias Python
 - Numero Par/Inpar
