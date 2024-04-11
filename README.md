@@ -24,7 +24,7 @@ This README file is available in two languages: English and Spanish.
 # Programas Python:
 
 ## Descripción:
-Este repositorio contiene una colección de pequeños programas y proyectos desarrollados en Python. Estos programas abarcan una variedad de temas y funcionalidades, desde scripts simples hasta aplicaciones más complejas.
+Este repositorio contiene una colección de pequeños programas y proyectos muy útiles desarrollados en Python. Estos programas abarcan una variedad de temas y funcionalidades, desde scripts simples hasta aplicaciones más complejas.
 
 ## Lista de proyectos:
 - Adivina el Numero
