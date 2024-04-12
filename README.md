@@ -38,6 +38,7 @@ Este repositorio contiene una colección de pequeños programas y proyectos muy 
 - Librerias Python
 - Numero Par/Inpar
 - Numero Factorial
+- Numero Grande
 - Numero Primo
 - Piedra/Papel/Tijeras Juego
 - Seccion de Fibonacci
