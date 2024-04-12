@@ -3,6 +3,7 @@
 This repository contains a collection of small useful programs and projects developed in Python. These programs cover a variety of topics and functionalities, from simple scripts to more complex applications.
 ## Project List:
 - Akinator
+- Big number
 - Creacte a Multiplication Table
 - DNI Checker
 - Even/Odd Number
