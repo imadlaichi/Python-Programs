@@ -41,6 +41,7 @@ Este repositorio contiene una colección de pequeños programas y proyectos muy 
 - Numero Factorial
 - Numero Grande
 - Numero Primo
+- Generador de Numeros
 - Piedra/Papel/Tijeras Juego
 - Seccion de Fibonacci
 - Verificador de DNI
