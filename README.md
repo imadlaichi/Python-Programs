@@ -12,6 +12,7 @@ This repository contains a collection of small useful programs and projects deve
 - Guess the Number
 - Industrial Process Calculator v1
 - Indutrial Process Calculator v2 GUI
+- Number Generator
 - Prime Number
 - Python Libraries
 - Rock/Paper/Scissors Game
