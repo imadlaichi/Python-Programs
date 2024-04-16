@@ -53,6 +53,6 @@ Este repositorio contiene una colección de pequeños programas y proyectos muy 
 ## Idiomas:
 Este archivo README está disponible en dos idiomas: inglés y español.
 
-Imad Laichi
+Imad Laichi,
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
