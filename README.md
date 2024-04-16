@@ -51,7 +51,7 @@ Este repositorio contiene una colección de pequeños programas y proyectos muy 
 ¡Siéntete libre de contribuir con tus propios proyectos o mejorar los existentes! Cualquier tipo de contribución es bienvenida, desde agregar nuevos programas hasta corregir errores o mejorar la documentación.
 
 ## Idiomas:
-Este archivo README está disponible en dos idiomas: inglés y español.
+Este archivo README está disponible en dos idiomas: español y inglés.
 
 Imad Laichi,
 
