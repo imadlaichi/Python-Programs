@@ -48,6 +48,7 @@ Este repositorio contiene una colección de pequeños programas y proyectos muy 
 - Verificador de DNI
 
 ## Contribución:
+
 ¡Siéntete libre de contribuir con tus propios proyectos o mejorar los existentes! Cualquier tipo de contribución es bienvenida, desde agregar nuevos programas hasta corregir errores o mejorar la documentación.
 
 ## Idiomas:
