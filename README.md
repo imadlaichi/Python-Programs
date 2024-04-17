@@ -1,5 +1,5 @@
 # Python-Programs  
-----------------------------------
+---------------------------------
 ## Description:
 This repository contains a collection of small useful programs and projects developed in Python. These programs cover a variety of topics and functionalities, from simple scripts to more complex applications.
 ## Project List:
